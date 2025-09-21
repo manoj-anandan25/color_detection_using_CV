@@ -1,5 +1,5 @@
 # Color Detection Using OpenCV – Full Project Overview 
-gfddnghfhd hftgd  nbgvghcg nggcgxx bbghhfcg  bbgvghth
+gfddnghfhd hftgd  nbgvghcg nggcgxx bbghhfcg  bbgvghth bbvgcgc
 yyhgg
 **Project Type:** Real-Time Object Color Detection
 
