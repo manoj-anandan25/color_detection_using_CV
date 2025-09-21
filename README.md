@@ -1,6 +1,6 @@
 # Color Detection Using OpenCV – Full Project Overview 
-gfddnghfhd hftgd  nbgvghcg nggcgxx bbghhfcg  bbgvghth bbvgcgc vhvhvchcgh
-yyhgg
+gfddnghfhd hftgd  nbgvghcg nggcgxx bbghhfcg  bbgvghth 
+
 **Project Type:** Real-Time Object Color Detection
 
 **Purpose:** Detect and highlight objects of a specific color using Python and OpenCV.
